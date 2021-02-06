@@ -2,5 +2,8 @@
 [github]: https://github.com/VulkreoN
 [linkedin]: https://www.linkedin.com/in/hakim-redjem
 
-### UNDER CONSTRUCTION :)
-[Imgur](https://i.imgur.com/4LG75kl.gifv)
+<h2>Hi! I'm Hakim REDJEM</h2>
+
+![GitHub followers](https://img.shields.io/github/followers/VulkreoN?label=Follow&style=social)
+
+https://imgur.com/4LG75kl
