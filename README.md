@@ -15,4 +15,25 @@
 
 <img align='right' src="https://i.imgur.com/4LG75kl.gif" width="400">**About me :**
 
-- 📗 Actually I'm a first year Student at [@Epitech](https://www.epitech.eu/)
+- 📗 Actually I'm a first year Student at [EPITECH](https://www.epitech.eu/)
+- 💻 I'm learning C, C# (Unity), Python, shell scripting and more...
+- ❤️ I Love rythme games (and games in general), Japanese Culture and Developpement
+
+**Contact me :**
+- 📧 Email : hakim.redjem@epitech.eu
+- 💬 Discord : VulkreoN#1311
+
+</br>
+</br>
+
+**My GitHub Data :**
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VulkreoN&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" class="responsive" />
+    </div>
+    <div style="display: inline-block;">
+        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulkreoN&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
