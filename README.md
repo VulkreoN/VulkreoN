@@ -13,6 +13,6 @@
 </br>
 </br>
 
-<img align='right' src="https://imgur.com/4LG75kl" width="400">**About me :**
+<img align='right' src="https://i.imgur.com/4LG75kl.gif" width="400">**About me :**
 
 - 📗 Actually I'm a first year Student at [@Epitech](https://www.epitech.eu/)
