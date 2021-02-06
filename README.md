@@ -16,7 +16,9 @@
 <img align='right' src="https://i.imgur.com/4LG75kl.gif" width="400">**About me :**
 
 - 📗 Actually I'm a first year Student at [EPITECH](https://www.epitech.eu/)
+
 - 💻 I'm learning C, C# (Unity), Python, shell scripting and more...
+
 - ❤️ I Love rythme games (and games in general), Japanese Culture and Developpement
 
 **Contact me :**
