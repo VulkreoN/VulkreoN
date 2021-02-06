@@ -23,9 +23,9 @@
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
+
 - 💬 Discord : VulkreoN#1311
 
-</br>
 </br>
 
 **My GitHub Data :**
