@@ -7,8 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/VulkreoN?label=Follow&style=social)
 
 [<img align="left" alt="VulkreoN | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="VulkreoN | Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1612644488~hmac=598623bd04220a41836dce2b71236b00" />][email]
-[<img align="left" alt="VulkreoN | Linkedkin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1612644732~hmac=2ebbfb76242877af27ab6e6ee2712388" />][linkedin]
+[<img align="left" alt="VulkreoN | Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1613481359~hmac=75e1f90ab59f39f8bb535834c4d5ae4d" />][email]
+[<img align="left" alt="VulkreoN | Linkedkin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613482058~hmac=bc3cc58cc6a90b2488e3f35e42c9d64a" />][linkedin]
 
 </br>
 </br>
@@ -41,3 +41,4 @@
 <br/>
 
 <div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
