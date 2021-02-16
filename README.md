@@ -24,7 +24,7 @@
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
 
-- 💬 Discord : VulkreoN#1311
+- 💬 Discord : VulkreoN#2411
 
 </br>
 
@@ -39,3 +39,5 @@
     </div>
 </div>
 <br/>
+
+<div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
