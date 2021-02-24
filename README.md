@@ -19,7 +19,7 @@
 
 - 💻 I'm learning C, C# (Unity), Python, shell scripting and more...
 
-- ❤️ I Love rythme games (and games in general), Japanese Culture and Developpement
+- ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
