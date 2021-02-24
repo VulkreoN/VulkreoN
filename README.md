@@ -8,7 +8,7 @@
 
 [<img align="left" alt="VulkreoN | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="VulkreoN | Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1613481359~hmac=75e1f90ab59f39f8bb535834c4d5ae4d" />][email]
-[<img align="left" alt="VulkreoN | Linkedkin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613482058~hmac=bc3cc58cc6a90b2488e3f35e42c9d64a" />][linkedin]
+[<img align="left" alt="VulkreoN | Linkedkin" width="22px" src="https://i.imgur.com/wPYn0J3.png" />][linkedin]
 
 </br>
 </br>
