@@ -38,7 +38,8 @@
         <img width="350" height="150" img align="left" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulkreoN&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
     </div>
 </div>
-<br/>
+</br>
+</br>
 
 <div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
