@@ -35,7 +35,8 @@
         <img width="350" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VulkreoN&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" class="responsive" />
     </div>
     <div style="display: inline-block;">
-        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulkreoN&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
+                <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulkreoN&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
+
     </div>
 </div>
 <br/>
