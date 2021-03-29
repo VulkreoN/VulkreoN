@@ -35,7 +35,7 @@
         <img width="350" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VulkreoN&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" class="responsive" />
     </div>
 </div>
-</br>
+
 </br>
 
 <div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
