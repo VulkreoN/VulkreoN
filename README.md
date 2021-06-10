@@ -23,7 +23,7 @@
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
-- 📣 LinkedIn : [Hakim REDJEM]:https://www.linkedin.com/in/hakim-redjem/
+- 📣 LinkedIn : [Hakim REDJEM](https://www.linkedin.com/in/hakim-redjem/)
 - 💬 Discord : VulkreoN#2411
 
 </br>
