@@ -17,13 +17,13 @@
 
 - 📗 Actually I'm a first year Student at [EPITECH](https://www.epitech.eu/)
 
-- 💻 I'm learning C, C# (Unity), Python, shell scripting and more...
+- 💻 I'm learning C, Python, JavaScript, shell scripting and more...
 
 - ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
-
+- 📣 LinkedIn : [Hakim REDJEM]:https://www.linkedin.com/in/hakim-redjem/
 - 💬 Discord : VulkreoN#2411
 
 </br>
@@ -36,6 +36,7 @@
     </div>
 </div>
 
+</br>
 </br>
 
 <div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
