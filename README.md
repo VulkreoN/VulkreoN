@@ -15,9 +15,9 @@
 
 <img align='right' src="https://i.imgur.com/4LG75kl.gif" width="400">**About me :**
 
-- 📗 Actually I'm a first year Student at [EPITECH](https://www.epitech.eu/)
+- 📗 Actually I'm a second year Student at [EPITECH](https://www.epitech.eu/)
 
-- 💻 I'm learning C, Python, JavaScript, shell scripting and more...
+- 💻 I'm learning C, C++, Python, JavaScript, shell scripting and more...
 
 - ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
 
