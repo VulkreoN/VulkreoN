@@ -17,7 +17,7 @@
 
 - 📗 Actually I'm a second year Student at [EPITECH](https://www.epitech.eu/)
 
-- 💻 I'm learning C, C++, Python, JavaScript, shell scripting and more...
+- 💻 I'm learning C, C++, C#, Python, JavaScript, shell scripting and more...
 
 - ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
 
