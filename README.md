@@ -6,7 +6,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/VulkreoN?label=Follow&style=social)
 
-[<img align="left" alt="VulkreoN | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="VulkreoN | Email" width="22px" src="https://i.imgur.com/qCF3lzb.png" />][email]
 [<img align="left" alt="VulkreoN | Linkedkin" width="22px" src="https://i.imgur.com/s6HbIpZ.png" />][linkedin]
 
