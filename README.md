@@ -14,16 +14,19 @@
 
 <img align='right' src="https://i.imgur.com/4LG75kl.gif" width="400">**About me :**
 
-- 📗 Actually I'm a second year Student at [EPITECH](https://www.epitech.eu/)
+- 📗 Grad student from [EPITECH](https://www.epitech.eu/)
 
-- 💻 I'm learning C, C++, C#, Python, JavaScript, shell scripting and more...
+- 📝 I have Advanced Knowledge in C, C++, C#, Python, TS/JS, shell scripting..
+
+- 💻 And still learning day to day (As Every Developper Should :) )
 
 - ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
 - 📣 LinkedIn : [Hakim REDJEM](https://www.linkedin.com/in/hakim-redjem/)
-- 💬 Discord : VulkreoN#2411
+- 💬 Discord : VulkreoN
+- ⚔️ CodinGame : [My Profile](https://www.codingame.com/profile/fcbe2457687a083511693de72cb630bc5183234)
 
 </br>
 
