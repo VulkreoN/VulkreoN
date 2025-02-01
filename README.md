@@ -20,13 +20,14 @@
 
 - 💻 And still learning day to day (As Every Developper Should :) )
 
-- ❤️ I Love rythm games (and games in general), Japanese Culture and Developpement
+- ❤️ I Love rythm games (and games in general), Japanese Culture and Programming !
 
 **Contact me :**
 - 📧 Email : hakim.redjem@epitech.eu
 - 📣 LinkedIn : [Hakim REDJEM](https://www.linkedin.com/in/hakim-redjem/)
 - 💬 Discord : VulkreoN
 - ⚔️ CodinGame : [My Profile](https://www.codingame.com/profile/fcbe2457687a083511693de72cb630bc5183234)
+- 🎮 Steam : [Steam Profile](https://steamcommunity.com/id/VulkreoN/)
 
 </br>
 
